@@ -64,4 +64,4 @@ ddsSE <- DESeqDataSet(tcga_data,
                       
 #el error que me devuelve es el siguiente: renaming the first element in assays to 'counts'
 #Error in DESeqDataSet(tcga_data, design = ~Paper_Age..Years.at.diagnosis. +  : 
-# some values in assay are not integers
+#some values in assay are not integers
